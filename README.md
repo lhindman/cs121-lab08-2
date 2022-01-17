@@ -23,19 +23,10 @@ The screenshot above shows a sample GUI for this activity.  You may use the same
 When the reconfigure JButton is pressed, it will read the current values from the JTextField and the JComboBox.  If the user specified a non-integer value for the number of sides, you should catch the NumberFormatException and display a JOptionPane with the message "Please enter an integer value!".  If the user specified an integer value outside of the valid range [2 - 20], display a JOptionPane with the message "Please enter values in the range of 2 - 20 inclusive!".
 
 ### Implementation Guide
-1. Expand the folder named A1-DynamicDie and create a new file named DynamicDie.java
-2. Copy Die.java and DieButton.java from the [Mod08 Code Examples](https://github.com/lhindman/cs121-mod08-examples.git) into the A1-DynamicDie folder.
+1. Expand the folder named DynamicDie and create a new file named DynamicDie.java
+2. Copy Die.java and DieButton.java from the [Mod08 Code Examples](https://github.com/lhindman/cs121-mod08-examples.git) into the DynamicDie folder.
 3. Design a program to satisfy the requirement in the Problem Description and enter the program code in DynamicDie.java
 4. Test the program and pay particular attention to boundary/edge cases and invalid input.
-5. Commit the changes to your local repository with a message stating that Activity 1 is completed.
+5. Commit the changes to your local repository with a message stating that Activity 2 is completed.
 6. Push the changes from your local repository to the github classroom repository.
 
-## Coding Journal (Optional)
-Keep a journal of your activities as you work on this lab. Many of the best engineers that I have worked with professionally have kept some sort of engineering journal. I personally packed notebooks around with me for nearly 8 years before I began keeping my notes electronically.   
-
-Your journal can track ideas, bugs, cool links, code snippets, shell commands, rants, or simply a reflection on what worked well or not-so-well with this lab activity. I will not be grading the content of your journal, but I will expect at least two timestamped journal entries of at least a 75 to 150 words each added to the provided Journal.md file.  The purpose of this component is to help develop the habit of taking notes and creating documentation while you code. The more detail you provide the better as that will help you if you ever need to refer back to this project in the future.
-
-## Markdown Resources
-Markdown is a notation that is used to format text documents.  It is widely used in Software Development shops around the world, which is why we're asking you to use it in your lab documentation.  
-
-Github provides a guide for getting started:  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)

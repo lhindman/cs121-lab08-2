@@ -1,7 +1,7 @@
 ![CS121 Banner](images/CS121-BANNER.svg)
 # Module 8 Lab Guide (part 2)
 ## Getting Started
-[Lab Introduction Video](https://youtu.be/4qre8IRmaUw)
+[Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ffc80f37-8672-4665-9952-ae2d011d4b23&start=0)
 
 ## Lab Activity 2 - Dynamic Die
 ### Problem Description

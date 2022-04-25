@@ -3,6 +3,8 @@
 ## Getting Started
 [Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ffc80f37-8672-4665-9952-ae2d011d4b23&start=0)
 
+**NOTE: Please remember to [open the workspace](images/open-lab-workspace.png) before beginning on the lab activities** 
+
 ## Lab Activity 2 - Dynamic Die
 ### Problem Description
 In this activity, you will using the Die class and the DieButton class that we developed in the deeper look videos. This is an example of code reuse which is core principle of Object Oriented Programming. For this activity you will create a class named DynamicDie that will enable the end-user to customize both the skin and the number of sides of a single DieButton. Three custom die face image sets (skins) have been provided for up to 20 sides on a single die. They are called Triangle, Diamond and Honeycomb and you can find them in the DynamicDie folder.
